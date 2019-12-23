@@ -1,0 +1,248 @@
+Borough,Neighborhood,ID,Name,Likes,Rating,Tips
+Bronx,Wakefield,4d375ce799fe8eec99fd2355,Ripe Kitchen & Bar,70,8.8,33
+Bronx,Wakefield,4c9e50e38afca09379b2ff15,Ali's Roti Shop,16,8.7,9
+Bronx,Wakefield,4c10f6aece57c92804a682d2,Jackie's West Indian Bakery,22,7.7,13
+Bronx,Wakefield,4bf5c0a294b2a5937c42acee,Golden Krust Caribbean Restaurant,2,6.7,1
+Bronx,Co-op City,4baab2b0f964a520c7803ae3,Country Thyme Cuisine,18,8.4,7
+Bronx,Co-op City,4c757642b474a1cd2858b9bf,Golden Krust Caribbean Restaurant,5,6.2,3
+Bronx,Eastchester,515cc20ce4b0deb133b8e89b,Fish & Ting,24,8.5,6
+Bronx,Eastchester,4c632fbaeb82d13a3c5007d6,Golden Krust Caribbean Restaurant,2,6.7,2
+Bronx,Eastchester,4dbf84a24df0f8fd6b88c9b6,Royal Caribbean Bakery,2,6.1,4
+Bronx,Eastchester,4c757642b474a1cd2858b9bf,Golden Krust Caribbean Restaurant,5,6.2,3
+Bronx,Eastchester,4c6c47ec1fb2a1434807fbe6,Pimento Caribbean Restaurant,5,5.9,6
+Bronx,Kingsbridge,4bd8e98811dcc928f865f833,El Malecon,62,8.5,34
+Manhattan,Marble Hill,4bd8e98811dcc928f865f833,El Malecon,62,8.5,34
+Bronx,Woodlawn,4c9e50e38afca09379b2ff15,Ali's Roti Shop,16,8.7,9
+Bronx,Norwood,4c031b49310fc9b64787c561,La Nueva Estrella,11,7.0,9
+Bronx,Norwood,4b4f7901f964a520090827e3,Golden Krust Caribbean Restaurant,1,6.7,1
+Bronx,Williamsbridge,4e4de62abd4101d0d79dae97,Gold Star Jerk And Seafood Center,24,8.0,3
+Bronx,Williamsbridge,4ba39e47f964a520944c38e3,Golden Krust Caribbean Restaurant,14,7.5,9
+Bronx,Williamsbridge,4f2725d3e4b02a950113e0f0,Gooddine,9,7.4,2
+Bronx,Williamsbridge,4c0e9b28d64c0f478778285d,Richie Rich Caribbean Taste Restaurant,27,7.6,15
+Bronx,Williamsbridge,4e4d6825bd413c4cc670d38c,Golden Krust Caribbean Restaurant,2,6.9,3
+Bronx,Williamsbridge,4cb436afeb65b1f73c3688cd,New Taste West Indian American,8,6.4,3
+Bronx,Williamsbridge,4ca7451314c337042fadc73b,The Dumplin Shop,5,6.0,3
+Bronx,Baychester,4be5b76e910020a1435fd314,Golden Krust Caribbean Restaurant,23,6.6,8
+Bronx,Bedford Park,4c031b49310fc9b64787c561,La Nueva Estrella,11,7.0,9
+Bronx,Fordham,4bab5b5bf964a520fba23ae3,Golden Krust Caribbean Restaurant,3,6.8,1
+Bronx,High  Bridge,4c1010f5ce57c928f94681d2,The Feeding Tree,24,7.5,16
+Bronx,Morrisania,4bb794d41261d13a2583e798,Golden Krust Caribbean Restaurant,0,6.6,3
+Bronx,Parkchester,4b919003f964a520d4c533e3,Golden Krust Caribbean Restaurant,12,7.5,7
+Bronx,Parkchester,5b1c188f1ffe97002c02259f,Ajo Y Oregano,6,7.5,2
+Bronx,Parkchester,4d226c99756e8cfaf0c27e54,Jenny's Roti Shop,2,7.1,6
+Bronx,Van Nest,5b1c188f1ffe97002c02259f,Ajo Y Oregano,6,7.5,2
+Bronx,Van Nest,4b919003f964a520d4c533e3,Golden Krust Caribbean Restaurant,12,7.5,7
+Bronx,Belmont,4bab5b5bf964a520fba23ae3,Golden Krust Caribbean Restaurant,3,6.8,1
+Bronx,Olinville,4c07e7f97e3fc9280676ef82,Feroza's Roti Shop,39,7.6,25
+Bronx,Olinville,4ba52f5df964a52009e938e3,Golden Krust Caribbean Restaurant,5,7.1,2
+Bronx,Olinville,4f627f50e4b04d4b13d32f90,Richie Rich,3,6.0,3
+Bronx,Olinville,0,0,0,0.0,0
+Bronx,Olinville,0,0,0,0.0,0
+Bronx,Pelham Gardens,5026a2ace4b08ea913bab503,Ultimate Grill,8,7.9,4
+Bronx,Pelham Gardens,4be5b76e910020a1435fd314,Golden Krust Caribbean Restaurant,23,6.6,8
+Bronx,Concourse,4c6daa9e06ed6dcbbe91a422,Concourse Jamaican Bakery,6,6.5,6
+Bronx,Unionport,4d226c99756e8cfaf0c27e54,Jenny's Roti Shop,2,7.1,6
+Bronx,Edenwald,4c10f6aece57c92804a682d2,Jackie's West Indian Bakery,22,7.7,13
+Bronx,Edenwald,4cb436afeb65b1f73c3688cd,New Taste West Indian American,8,6.4,3
+Bronx,Edenwald,4ca7451314c337042fadc73b,The Dumplin Shop,5,6.0,3
+Brooklyn,Flatbush,52b27c86498e50d126766a68,Footprints Cafe Express,53,7.7,14
+Brooklyn,Flatbush,54fa4b21498e671122cb4d11,Island Burger,27,8.4,8
+Brooklyn,Flatbush,4be5ad3a2457a5932fd0ab15,Fisherman's Cove,74,8.5,18
+Brooklyn,Flatbush,5879815625911e1bb23364a0,Sip unWINE,8,7.4,3
+Brooklyn,Flatbush,4ce6e9808ef78cfaf09b8f9b,Faye & King's,13,7.4,6
+Brooklyn,Flatbush,4ce0265e78ddf04df9b3a498,Bake & Things,50,7.7,14
+Brooklyn,Flatbush,4bf6df9d4a67c928b49422cf,Golden Krust Caribbean Bakery & Grill,7,6.5,1
+Brooklyn,Flatbush,4e29ba65e4cd6c6cb3544891,McBean's Restaurant,7,6.6,3
+Brooklyn,Flatbush,4f5fcf3de4b0c27826e6c490,Exquisite Restaurant,5,6.1,1
+Brooklyn,Crown Heights,4ad1577ff964a52020de20e3,Gloria's Caribbean Cuisine,179,8.5,70
+Brooklyn,Crown Heights,57d4b6a1498e4e908dc3d142,Peppa's Jerk Chicken - Crown Heights,40,8.2,7
+Brooklyn,Crown Heights,4b085b46f964a520f50923e3,Gloria's,30,8.5,12
+Brooklyn,Crown Heights,4e08ba97091afe7702004d43,O's Grill Spot,7,6.7,4
+Brooklyn,Crown Heights,4bddc63fffdec928d95de6a1,Exquisite Restaurant,3,6.5,7
+Brooklyn,Crown Heights,4bc3edc04cdfc9b61c1c9821,Golden Krust Caribbean Restaurant,4,6.2,7
+Brooklyn,East Flatbush,4e5d9b2db0fbc0acda43d89e,VIVID Caribbean American Bistro,38,7.5,12
+Brooklyn,East Flatbush,4c4cc9d9172b76b0610209d1,Tropical Paradise Restaurant,12,7.1,4
+Brooklyn,East Flatbush,5408fd2f498e50d72d583283,Trelawni Place,25,6.8,10
+Brooklyn,East Flatbush,0,0,0,0.0,0
+Brooklyn,Kensington,57e84045498e0ee2333a41d4,Suzy's Roti Parlour,15,7.8,5
+Brooklyn,Prospect Heights,5a4d750e3fcee83d3f3ce36c,The Islands,53,9.2,15
+Brooklyn,Brownsville,4ef520a36c25074226ff0101,Golden Krust Caribbean Bakery and Grill,1,7.2,1
+Brooklyn,Brownsville,4c0fbd6fd64c0f47b13d2a5d,Golden Krust Caribbean Restaurant,2,6.4,3
+Brooklyn,Bushwick,5798f12338fa634535d766d3,Sally Roots,125,8.9,26
+Brooklyn,Bedford Stuyvesant,562d4a03498ed563c9a7ab8c,Kafe Louverture,23,8.4,7
+Brooklyn,Bedford Stuyvesant,5650f85b498ecdb849435a7d,Angela’s,55,8.3,31
+Brooklyn,Bedford Stuyvesant,4a623b9df964a52076c31fe3,A & A Bake & Doubles,94,8.8,57
+Brooklyn,Bedford Stuyvesant,4c3dbd0d980320a176608ce4,Tastee Pattee,12,7.8,6
+Brooklyn,Fort Greene,5ae70ca64c954c002c618bff,Imani Caribbean Kitchen & Bar,29,8.3,2
+Brooklyn,Park Slope,5a2b4cad1f74406acebf1baa,Negril,28,8.1,3
+Brooklyn,East New York,4bc5ee81db8fa593846e9b37,Island Pot Restaurant,21,6.3,12
+Brooklyn,Starrett City,4c50b469375c0f47c406bb92,Golden Krust Caribbean Restaurant,2,6.7,1
+Brooklyn,Canarsie,4c1843941436a593e12e8d75,De Islands Caribbean Resturant,17,7.4,11
+Brooklyn,Canarsie,5324a973498e4a9ae2e3bc77,Chloe's Restaurant and Lounge,14,6.6,3
+Brooklyn,Canarsie,4c15458477cea59341f4d160,Golden Krust Caribbean Restaurant,6,6.6,3
+Brooklyn,Canarsie,4baebdcef964a520ebd33be3,Bamboo Garden,13,6.0,11
+Brooklyn,Canarsie,4cb39fba6c26952153f9b9d9,Dougie's Jamaican Cuisine,7,6.1,5
+Brooklyn,Flatlands,4c1321d0b7b9c928c029a937,Blue Mountain Farm,29,8.1,5
+Brooklyn,Flatlands,4c47260096abd13a1cc96f01,Topaze Restaurant,10,7.4,1
+Brooklyn,Flatlands,5408fd2f498e50d72d583283,Trelawni Place,25,6.8,10
+Brooklyn,Flatlands,4bfd2559f61dc9b6bc8a9ede,Golden Krust Caribbean Restaurant,5,6.7,4
+Brooklyn,Flatlands,0,0,0,0.0,0
+Brooklyn,Coney Island,45053091f964a520e6381fe3,Footprints Cafe,65,6.9,39
+Brooklyn,Coney Island,4bd8c4572e6f0f47d3820808,Golden Krust Caribbean Restaurant,1,6.9,4
+Brooklyn,Marine Park,4b6b21aff964a520e0f42be3,Golden Krust Caribbean Bakery and Grill,3,7.2,3
+Brooklyn,Clinton Hill,5ae70ca64c954c002c618bff,Imani Caribbean Kitchen & Bar,29,8.3,2
+Brooklyn,Downtown,5945bcb842d8c24270976841,Likkle More Jerk,18,7.9,4
+Brooklyn,Prospect Lefferts Gardens,4a6cba95f964a52073d11fe3,Peppa's Jerk Chicken,161,9.0,57
+Brooklyn,Prospect Lefferts Gardens,4d0e9e455b8a8cfa5e50eb83,De Hot Pot Roti Shop,73,8.8,23
+Brooklyn,Prospect Lefferts Gardens,4bdcade72a3a0f470fecb3b6,MangoSeed Restaurant,177,8.7,77
+Brooklyn,Prospect Lefferts Gardens,54fbad6b498e83b622d3c796,The Food Sermon,164,9.2,38
+Brooklyn,Prospect Lefferts Gardens,4c79b5f683a7bfb7527f7ff8,Errol's Caribbean Bakery,11,8.0,5
+Brooklyn,Prospect Lefferts Gardens,4e0904426284d9ee92de668b,Golden Krust Caribbean Restaurant,12,7.8,8
+Brooklyn,Prospect Lefferts Gardens,4b085b46f964a520f50923e3,Gloria's,30,8.5,12
+Brooklyn,Prospect Lefferts Gardens,4bd3475c046076b084a97571,Culpepper's,20,7.2,13
+Brooklyn,Prospect Lefferts Gardens,4e26eebed16486291ba4d622,Jen's Roti Shop,16,7.7,7
+Brooklyn,Prospect Lefferts Gardens,4cd4918576ab721eacf3676a,Soldiers Jamaican,20,7.3,9
+Brooklyn,Prospect Lefferts Gardens,4c5dd01cd25320a1a924c77a,De Bamboo Express Restaurant & Bakery,11,7.3,4
+Brooklyn,Prospect Lefferts Gardens,4a611b29f964a520dec11fe3,Nio's Trinidad Roti Shop,31,7.6,13
+Brooklyn,Prospect Lefferts Gardens,4e21d5c6e4cdf68591898a5e,Caribbean Vibes,14,7.5,6
+Brooklyn,Prospect Lefferts Gardens,5a0f90888264443d4b674cdf,Caribbean Social,16,7.1,8
+Brooklyn,Ocean Hill,4c0fbd6fd64c0f47b13d2a5d,Golden Krust Caribbean Restaurant,2,6.4,3
+Brooklyn,Prospect Park South,57597fd8498e2922f0ff1b22,Island Express,26,8.8,4
+Brooklyn,Prospect Park South,4d69b5bfde28224b66f646be,fisherman's Cove,22,7.5,5
+Brooklyn,Prospect Park South,4cb8984bbac937044c4fde7c,Golden Krust Caribbean Restaurant,4,7.2,1
+Brooklyn,Prospect Park South,4bdcade72a3a0f470fecb3b6,MangoSeed Restaurant,177,8.7,77
+Brooklyn,Prospect Park South,4a6cba95f964a52073d11fe3,Peppa's Jerk Chicken,161,9.0,57
+Brooklyn,Prospect Park South,57e84045498e0ee2333a41d4,Suzy's Roti Parlour,15,7.8,5
+Brooklyn,Prospect Park South,4e26eebed16486291ba4d622,Jen's Roti Shop,16,7.7,7
+Brooklyn,Prospect Park South,5a0f90888264443d4b674cdf,Caribbean Social,16,7.1,8
+Brooklyn,Prospect Park South,4a611b29f964a520dec11fe3,Nio's Trinidad Roti Shop,31,7.6,13
+Brooklyn,Prospect Park South,4c5dd01cd25320a1a924c77a,De Bamboo Express Restaurant & Bakery,11,7.3,4
+Brooklyn,Prospect Park South,5879815625911e1bb23364a0,Sip unWINE,8,7.4,3
+Brooklyn,Georgetown,4bfd2559f61dc9b6bc8a9ede,Golden Krust Caribbean Restaurant,5,6.7,4
+Brooklyn,North Side,5671fec0498e79759c2ce17b,Pearl's,181,8.9,46
+Manhattan,Washington Heights,4afcba6af964a5206d2522e3,La Casa del Mofongo,163,8.0,61
+Manhattan,Hamilton Heights,4eb32c34e5fa17fc85cc483f,Wat’s On Your Plate,25,8.8,21
+Manhattan,Hamilton Heights,4a7a35faf964a520dee81fe3,One Stop Patty Shop,13,7.7,10
+Manhattan,Central Harlem,5645609b498e47952f22cd7d,Jerkyz,7,7.5,1
+Manhattan,Central Harlem,4cc8b398e7926dcbddbd5777,Little Ochie,7,7.1,3
+Manhattan,Roosevelt Island,4f5660c3e4b0ac8e5470d4b2,Melting Pot Cuisine,15,8.2,9
+Manhattan,Greenwich Village,4d9e8aa89b91a1cdc7c958c0,Miss Lily's & Melvin's Juice Box,970,9.1,346
+Manhattan,East Village,537822d3498edcf629cebd3d,Miss Lily's 7A,571,9.2,168
+Queens,Forest Hills,4af6f269f964a5204a0422e3,Cabana Restaurant & Bar,126,8.2,89
+Queens,Kew Gardens,4b9d2a05f964a520769536e3,Kaieteur Restaurant,23,7.9,14
+Queens,Richmond Hill,4b9d2a05f964a520769536e3,Kaieteur Restaurant,23,7.9,14
+Queens,Richmond Hill,51edc3a0498ed5eb9f8c5643,El Gran Canario,3,5.8,4
+Queens,Sunnyside,4bf6cd2d13aed13ac039eaf7,Golden Krust Caribbean Bakery and Grill,1,6.9,3
+Queens,Ozone Park,0,0,0,0.0,0
+Queens,South Ozone Park,4da0da7563b5a35d809ddb19,The Legend Cookhouse Guyana Cuisine,5,7.2,2
+Queens,South Ozone Park,4d793f73132d8eec4f7815be,G's Restaurant and Bakery,6,6.6,1
+Queens,College Point,4b8abd9cf964a520b07d32e3,Mangu Grill,12,6.2,7
+Queens,Jamaica Center,4bce1e93cc8cd13a37c8c3cf,Jamaican Flavors,23,8.0,9
+Queens,Jamaica Center,4c0eeb0415c2ef3bad541b08,Genesis #1,27,8.4,13
+Queens,Jamaica Center,5130c73e72da35b105337efe,Anita's Roti Shop,7,6.8,0
+Queens,Jamaica Center,4c82afb974d7b60cf60983d8,Golden Krust Caribbean Restaurant,3,6.4,1
+Queens,Queens Village,4e07913db61c60b045464228,Golden Krust Caribbean Restaurant,2,6.2,3
+Queens,Queens Village,4da790e66a2364c7a3417b86,Tropical Jerk,26,6.2,11
+Queens,South Jamaica,5130c73e72da35b105337efe,Anita's Roti Shop,7,6.8,0
+Queens,St. Albans,4ca8f719d971b1f77e0b1ae1,The Smokehouse,63,8.1,26
+Queens,St. Albans,50bd54b3e4b0b38c68eb38c7,jamaican flavors,6,6.9,2
+Queens,St. Albans,4e4cfee5bd413c4cc66dd93d,Golden Krust Caribbean Bakery and Grill,5,7.0,1
+Queens,St. Albans,4e08c252d4c03ae0b9d1be28,Kriss West Indian Restaurant,7,6.5,2
+Queens,Rochdale,4b778264f964a520d69e2ee3,The Door,238,8.7,91
+Queens,Springfield Gardens,4d3206725017a093183c459b,Jamaican Flavors Restaurant,8,7.7,4
+Queens,Springfield Gardens,4c2cd1bad1a10f47c20dfa64,Golden Krust Caribbean Restaurant,1,6.9,2
+Queens,Cambria Heights,4dcde05f183899ddfac4b4fa,Good Taste Catering,14,7.3,2
+Queens,Cambria Heights,4cc1bac501fb236aeb579aba,Golden Krust Caribbean Restaurant,21,7.6,8
+Queens,Cambria Heights,4c75c2ec604a370462c88349,Whipped Treats,10,8.2,10
+Queens,Cambria Heights,0,0,0,0.0,0
+Queens,Rosedale,4fde48afe4b0b4dd29a80328,Henrica's Restaurant And Lounge,20,7.9,7
+Queens,Rosedale,52d0cb3511d271f8bcf46c1f,Pa-Nash Eurosoul,9,7.1,2
+Queens,Rosedale,543024d9498ea11026e7f349,c & j jamaican restaurant,5,5.8,0
+Queens,Rosedale,4b5b34e8f964a5202ceb28e3,Golden Krust,6,5.9,4
+Queens,Far Rockaway,4ded1ea66365d208a47006cd,Golden Krust Caribbean Restaurant,3,6.2,2
+Queens,Arverne,4d31ea9cb6093704551ef1df,Goody's,29,8.8,14
+Queens,Holliswood,4e4cfecbbd413c4cc66dd85d,Golden Krust Caribbean Bakery and Grill,0,6.8,1
+Queens,Laurelton,4fde48afe4b0b4dd29a80328,Henrica's Restaurant And Lounge,20,7.9,7
+Queens,Laurelton,51368f29e4b0349e2a7a408d,Jamaica Breeze,14,8.1,4
+Queens,Laurelton,4b9aeef1f964a52089e435e3,Jerk Hut,11,7.8,0
+Queens,Laurelton,4d3206725017a093183c459b,Jamaican Flavors Restaurant,8,7.7,4
+Queens,Laurelton,52d0cb3511d271f8bcf46c1f,Pa-Nash Eurosoul,9,7.1,2
+Queens,Laurelton,4b5b34e8f964a5202ceb28e3,Golden Krust,6,5.9,4
+Queens,Laurelton,543024d9498ea11026e7f349,c & j jamaican restaurant,5,5.8,0
+Queens,Laurelton,0,0,0,0.0,0
+Queens,Somerville,4d31ea9cb6093704551ef1df,Goody's,29,8.8,14
+Queens,Brookville,4c2cd1bad1a10f47c20dfa64,Golden Krust Caribbean Restaurant,1,6.9,2
+Queens,North Corona,4fe22a8ce4b079e1961d356b,King Empanadas,7,6.0,4
+Queens,Forest Hills Gardens,4af6f269f964a5204a0422e3,Cabana Restaurant & Bar,126,8.2,89
+Staten Island,St. George,4bafbddbf964a520df1c3ce3,Golden Krust Caribbean Bakery and Grill,2,6.0,7
+Staten Island,New Brighton,4bafbddbf964a520df1c3ce3,Golden Krust Caribbean Bakery and Grill,2,6.0,7
+Staten Island,Tompkinsville,4bafbddbf964a520df1c3ce3,Golden Krust Caribbean Bakery and Grill,2,6.0,7
+Brooklyn,Ditmas Park,57597fd8498e2922f0ff1b22,Island Express,26,8.8,4
+Brooklyn,Ditmas Park,5879815625911e1bb23364a0,Sip unWINE,8,7.4,3
+Brooklyn,Ditmas Park,57e84045498e0ee2333a41d4,Suzy's Roti Parlour,15,7.8,5
+Brooklyn,Ditmas Park,4d69b5bfde28224b66f646be,fisherman's Cove,22,7.5,5
+Brooklyn,Ditmas Park,4cb8984bbac937044c4fde7c,Golden Krust Caribbean Restaurant,4,7.2,1
+Brooklyn,Ditmas Park,4e26eebed16486291ba4d622,Jen's Roti Shop,16,7.7,7
+Brooklyn,Ditmas Park,5a0f90888264443d4b674cdf,Caribbean Social,16,7.1,8
+Brooklyn,Ditmas Park,4bf6df9d4a67c928b49422cf,Golden Krust Caribbean Bakery & Grill,7,6.5,1
+Brooklyn,Wingate,4c030121187ec928511cb57b,Ali's Roti Shop,95,8.7,25
+Brooklyn,Wingate,5562849a498ea88df7dcc1d3,Crown Heights Royal Cuisine Yard Food,8,7.1,5
+Brooklyn,Wingate,4c1d79fa8b3aa59349ba9a5f,Golden Krust Caribbean Restaurant,2,6.7,3
+Brooklyn,Wingate,4ebc66f88b81967ad17a286a,Fisherman's Cove,6,6.7,6
+Brooklyn,Wingate,4bc3edc04cdfc9b61c1c9821,Golden Krust Caribbean Restaurant,4,6.2,7
+Brooklyn,Wingate,0,0,0,0.0,0
+Brooklyn,Rugby,4b464895f964a520791c26e3,Best Bites,25,7.8,10
+Brooklyn,Rugby,4bc56cea5935c9b68ef2a5d2,Golden Krust Caribbean Restaurant,4,7.3,11
+Brooklyn,Rugby,4e9ecdd9722edab8d2cdf221,Brucee's Patties,18,7.9,7
+Brooklyn,Rugby,4c8ac3c852a98cfa25c12fe9,Trinidad Roti House & Bakery,5,7.8,6
+Brooklyn,Rugby,4bc4c577abf49521628bc593,C & J Jamaican Restaurant,47,6.7,41
+Brooklyn,Rugby,4d8e436cca75b60c194afba8,Golden Krust Caribbean Restaurant,3,7.0,1
+Brooklyn,Rugby,4e72a0e5aeb74a608a8735ec,Silver Krust  Restaurant,15,6.1,1
+Brooklyn,Rugby,4cbdab3f43ec6dcbf554b831,Linda's Restaurant,5,5.6,2
+Manhattan,Noho,537822d3498edcf629cebd3d,Miss Lily's 7A,571,9.2,168
+Manhattan,Midtown South,4b02e1c0f964a520a44a22e3,Latin American Restaurant,20,8.6,13
+Brooklyn,Remsen Village,4e9ecdd9722edab8d2cdf221,Brucee's Patties,18,7.9,7
+Brooklyn,Remsen Village,4d8e436cca75b60c194afba8,Golden Krust Caribbean Restaurant,3,7.0,1
+Brooklyn,Remsen Village,4505314df964a520e7381fe3,Footprints Cafe,237,7.6,115
+Brooklyn,Remsen Village,4ef520a36c25074226ff0101,Golden Krust Caribbean Bakery and Grill,1,7.2,1
+Brooklyn,Remsen Village,4ed30bce02d5feaa1f657f21,Golden Krust Caribbean Bakery and Grill,4,6.9,2
+Brooklyn,Remsen Village,4e72a0e5aeb74a608a8735ec,Silver Krust  Restaurant,15,6.1,1
+Brooklyn,Remsen Village,4cbdab3f43ec6dcbf554b831,Linda's Restaurant,5,5.6,2
+Brooklyn,New Lots,4c0c4f79bbc676b036f74cd5,Flava II Restaurant & Bakery,10,7.1,5
+Brooklyn,New Lots,4bd30bf6b221c9b699b2d8d0,Golden Krust Caribbean Bakery and Grill,3,6.3,3
+Brooklyn,New Lots,4bc5ee81db8fa593846e9b37,Island Pot Restaurant,21,6.3,12
+Brooklyn,Paerdegat Basin,4c1843941436a593e12e8d75,De Islands Caribbean Resturant,17,7.4,11
+Brooklyn,Paerdegat Basin,5324a973498e4a9ae2e3bc77,Chloe's Restaurant and Lounge,14,6.6,3
+Brooklyn,Paerdegat Basin,4cb39fba6c26952153f9b9d9,Dougie's Jamaican Cuisine,7,6.1,5
+Brooklyn,Paerdegat Basin,4baebdcef964a520ebd33be3,Bamboo Garden,13,6.0,11
+Brooklyn,Mill Basin,4b6b21aff964a520e0f42be3,Golden Krust Caribbean Bakery and Grill,3,7.2,3
+Queens,Jamaica Hills,4c0eeb0415c2ef3bad541b08,Genesis #1,27,8.4,13
+Queens,Jamaica Hills,4bce1e93cc8cd13a37c8c3cf,Jamaican Flavors,23,8.0,9
+Bronx,Claremont Village,4bb794d41261d13a2583e798,Golden Krust Caribbean Restaurant,0,6.6,3
+Bronx,Concourse Village,4c1010f5ce57c928f94681d2,The Feeding Tree,24,7.5,16
+Bronx,Concourse Village,4ebabe2b775b2c800cf27003,Flavas International Grill,18,7.1,11
+Bronx,Concourse Village,4c6daa9e06ed6dcbbe91a422,Concourse Jamaican Bakery,6,6.5,6
+Queens,Blissville,4bf6cd2d13aed13ac039eaf7,Golden Krust Caribbean Bakery and Grill,1,6.9,3
+Brooklyn,Weeksville,4c030121187ec928511cb57b,Ali's Roti Shop,95,8.7,25
+Brooklyn,Weeksville,5562849a498ea88df7dcc1d3,Crown Heights Royal Cuisine Yard Food,8,7.1,5
+Brooklyn,Weeksville,4d5ea3ed5b276dcb31cafcc5,Golden Krust Caribbean Bakery and Grill,4,6.8,1
+Brooklyn,Weeksville,4ebc66f88b81967ad17a286a,Fisherman's Cove,6,6.7,6
+Brooklyn,Weeksville,4bc3edc04cdfc9b61c1c9821,Golden Krust Caribbean Restaurant,4,6.2,7
+Brooklyn,Broadway Junction,4e42a587aeb79367c7e9f663,Golden Krust Caribbean Restaurant,4,6.4,1
+Bronx,Allerton,4c07e7f97e3fc9280676ef82,Feroza's Roti Shop,39,7.6,25
+Bronx,Allerton,4ba52f5df964a52009e938e3,Golden Krust Caribbean Restaurant,5,7.1,2
+Bronx,Allerton,4f627f50e4b04d4b13d32f90,Richie Rich,3,6.0,3
+Bronx,Allerton,0,0,0,0.0,0
+Brooklyn,Erasmus,4b53503bf964a520d29627e3,Exquisite Delight,50,8.7,16
+Brooklyn,Erasmus,4ecd5bf6d3e3521ce230c631,Tastee Pattee,9,7.9,3
+Brooklyn,Erasmus,4be36a22d27a20a12c41925b,Bake & Things Restaurant,49,7.7,26
+Brooklyn,Erasmus,57597fd8498e2922f0ff1b22,Island Express,26,8.8,4
+Brooklyn,Erasmus,4a611b29f964a520dec11fe3,Nio's Trinidad Roti Shop,31,7.6,13
+Brooklyn,Erasmus,4e21d5c6e4cdf68591898a5e,Caribbean Vibes,14,7.5,6
+Brooklyn,Erasmus,4d95f915e07ea35d0f03b402,Trini Breakfast Shed II,20,6.9,12
+Brooklyn,Erasmus,4b66446af964a520621b2be3,Golden Krust Caribbean Restaurant,3,6.7,4
+Brooklyn,Erasmus,5879815625911e1bb23364a0,Sip unWINE,8,7.4,3
+Brooklyn,Erasmus,4c0c025ca1b32d7fa0e49bf0,Kal's Bakery & Restaurant,11,6.4,5
+Brooklyn,Erasmus,4bf6df9d4a67c928b49422cf,Golden Krust Caribbean Bakery & Grill,7,6.5,1
+Queens,Hammels,4d31ea9cb6093704551ef1df,Goody's,29,8.8,14
+Queens,Queensbridge,4f5660c3e4b0ac8e5470d4b2,Melting Pot Cuisine,15,8.2,9
