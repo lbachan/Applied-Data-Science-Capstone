@@ -24,9 +24,9 @@ This would be done by providing data about the income and population of each nei
 the same regions._**
 
 **_Questions that can be asked using the above mentioned datasets_**
--What is best location in New York City for Indian Cuisine ?
--Which areas have potential Indian Resturant Market ?
--Which all areas lack Indian Resturants ?
+&ndashWhat is best location in New York City for Indian Cuisine ?
+&ndashWhich areas have potential Indian Resturant Market ?
+&ndashWhich all areas lack Indian Resturants ?
 
 ## 2) Data
 
